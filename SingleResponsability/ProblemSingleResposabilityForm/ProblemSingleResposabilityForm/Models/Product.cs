@@ -1,5 +1,3 @@
-using ProblemSingleResponsability.Models.DB;
-
 namespace ProblemSingleResponsability.Models
 {
     public class Product
@@ -13,11 +11,6 @@ namespace ProblemSingleResponsability.Models
             Price = price;
         }
 
-        public void AddProduct()
-        {
-            var db = new Database();
-
-            db.AddProductDB(this);
-        }
+        public void AddProduct() => Database.Database.AddProduct(this);
     }
 }
