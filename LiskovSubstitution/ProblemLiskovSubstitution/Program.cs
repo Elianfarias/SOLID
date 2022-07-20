@@ -1,0 +1,9 @@
+﻿using ProblemLiskovSubstitution.Models;
+
+Bird eagle = new Eagle(5, 0.90);
+eagle.Eat();
+eagle.Fly();
+
+Bird penguin = new Penguin(60, 1.50);
+penguin.Eat();
+//Penguin Can't fly

@@ -1,0 +1,17 @@
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\bin\Debug\net6.0\ProblemOpenClosed.exe
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\bin\Debug\net6.0\ProblemOpenClosed.deps.json
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\bin\Debug\net6.0\ProblemOpenClosed.runtimeconfig.json
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\bin\Debug\net6.0\ProblemOpenClosed.dll
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\bin\Debug\net6.0\ProblemOpenClosed.pdb
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\obj\Debug\net6.0\ProblemOpenClosed.csproj.AssemblyReference.cache
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\obj\Debug\net6.0\ProblemOpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\obj\Debug\net6.0\ProblemOpenClosed.AssemblyInfoInputs.cache
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\obj\Debug\net6.0\ProblemOpenClosed.AssemblyInfo.cs
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\obj\Debug\net6.0\ProblemOpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\obj\Debug\net6.0\ProblemOpenClosed.csproj.CopyComplete
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\obj\Debug\net6.0\ProblemOpenClosed.dll
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\obj\Debug\net6.0\refint\ProblemOpenClosed.dll
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\obj\Debug\net6.0\ProblemOpenClosed.pdb
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\obj\Debug\net6.0\ProblemOpenClosed.genruntimeconfig.cache
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\ProblemOpenClosed\obj\Debug\net6.0\ref\ProblemOpenClosed.dll

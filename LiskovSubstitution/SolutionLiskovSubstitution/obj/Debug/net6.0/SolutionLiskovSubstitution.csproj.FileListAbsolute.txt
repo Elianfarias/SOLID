@@ -1,0 +1,15 @@
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\bin\Debug\net6.0\SolutionLiskovSubstitution.exe
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\bin\Debug\net6.0\SolutionLiskovSubstitution.deps.json
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\bin\Debug\net6.0\SolutionLiskovSubstitution.runtimeconfig.json
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\bin\Debug\net6.0\SolutionLiskovSubstitution.dll
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\bin\Debug\net6.0\SolutionLiskovSubstitution.pdb
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\obj\Debug\net6.0\SolutionLiskovSubstitution.csproj.AssemblyReference.cache
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\obj\Debug\net6.0\SolutionLiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\obj\Debug\net6.0\SolutionLiskovSubstitution.AssemblyInfoInputs.cache
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\obj\Debug\net6.0\SolutionLiskovSubstitution.AssemblyInfo.cs
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\obj\Debug\net6.0\SolutionLiskovSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\obj\Debug\net6.0\SolutionLiskovSubstitution.dll
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\obj\Debug\net6.0\refint\SolutionLiskovSubstitution.dll
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\obj\Debug\net6.0\SolutionLiskovSubstitution.pdb
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\obj\Debug\net6.0\SolutionLiskovSubstitution.genruntimeconfig.cache
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\SolutionLiskovSubstitution\obj\Debug\net6.0\ref\SolutionLiskovSubstitution.dll

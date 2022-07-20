@@ -1,0 +1,17 @@
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\bin\Debug\net6.0\SolutionOpenClosed.exe
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\bin\Debug\net6.0\SolutionOpenClosed.deps.json
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\bin\Debug\net6.0\SolutionOpenClosed.runtimeconfig.json
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\bin\Debug\net6.0\SolutionOpenClosed.dll
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\bin\Debug\net6.0\SolutionOpenClosed.pdb
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\obj\Debug\net6.0\SolutionOpenClosed.csproj.AssemblyReference.cache
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\obj\Debug\net6.0\SolutionOpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\obj\Debug\net6.0\SolutionOpenClosed.AssemblyInfoInputs.cache
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\obj\Debug\net6.0\SolutionOpenClosed.AssemblyInfo.cs
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\obj\Debug\net6.0\SolutionOpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\obj\Debug\net6.0\SolutionOpenClosed.csproj.CopyComplete
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\obj\Debug\net6.0\SolutionOpenClosed.dll
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\obj\Debug\net6.0\refint\SolutionOpenClosed.dll
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\obj\Debug\net6.0\SolutionOpenClosed.pdb
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\obj\Debug\net6.0\SolutionOpenClosed.genruntimeconfig.cache
+C:\Users\elian\Documents\repos\SOLID\OpenClosed\SolutionOpenClosed\obj\Debug\net6.0\ref\SolutionOpenClosed.dll

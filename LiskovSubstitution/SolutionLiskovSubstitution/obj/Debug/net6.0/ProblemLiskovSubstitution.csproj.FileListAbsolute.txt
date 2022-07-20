@@ -1,0 +1,15 @@
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\bin\Debug\net6.0\ProblemLiskovSubstitution.exe
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\bin\Debug\net6.0\ProblemLiskovSubstitution.deps.json
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\bin\Debug\net6.0\ProblemLiskovSubstitution.runtimeconfig.json
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\bin\Debug\net6.0\ProblemLiskovSubstitution.dll
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\bin\Debug\net6.0\ProblemLiskovSubstitution.pdb
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\obj\Debug\net6.0\ProblemLiskovSubstitution.csproj.AssemblyReference.cache
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\obj\Debug\net6.0\ProblemLiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\obj\Debug\net6.0\ProblemLiskovSubstitution.AssemblyInfoInputs.cache
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\obj\Debug\net6.0\ProblemLiskovSubstitution.AssemblyInfo.cs
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\obj\Debug\net6.0\ProblemLiskovSubstitution.csproj.CoreCompileInputs.cache
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\obj\Debug\net6.0\ProblemLiskovSubstitution.dll
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\obj\Debug\net6.0\refint\ProblemLiskovSubstitution.dll
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\obj\Debug\net6.0\ProblemLiskovSubstitution.pdb
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\obj\Debug\net6.0\ProblemLiskovSubstitution.genruntimeconfig.cache
+C:\Users\elian\Documents\repos\SOLID\LiskovSubstitution\ProblemLiskovSubstitution\obj\Debug\net6.0\ref\ProblemLiskovSubstitution.dll

@@ -1,0 +1,15 @@
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\bin\Debug\net6.0\ProblemInterfaceSegregation.exe
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\bin\Debug\net6.0\ProblemInterfaceSegregation.deps.json
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\bin\Debug\net6.0\ProblemInterfaceSegregation.runtimeconfig.json
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\bin\Debug\net6.0\ProblemInterfaceSegregation.dll
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\bin\Debug\net6.0\ProblemInterfaceSegregation.pdb
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\obj\Debug\net6.0\ProblemInterfaceSegregation.csproj.AssemblyReference.cache
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\obj\Debug\net6.0\ProblemInterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\obj\Debug\net6.0\ProblemInterfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\obj\Debug\net6.0\ProblemInterfaceSegregation.AssemblyInfo.cs
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\obj\Debug\net6.0\ProblemInterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\obj\Debug\net6.0\ProblemInterfaceSegregation.dll
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\obj\Debug\net6.0\refint\ProblemInterfaceSegregation.dll
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\obj\Debug\net6.0\ProblemInterfaceSegregation.pdb
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\obj\Debug\net6.0\ProblemInterfaceSegregation.genruntimeconfig.cache
+C:\Users\elian\Documents\repos\SOLID\InterfaceSegregation\ProblemInterfaceSegregation\obj\Debug\net6.0\ref\ProblemInterfaceSegregation.dll
