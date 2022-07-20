@@ -1,0 +1,17 @@
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\bin\Debug\net6.0\ProblemDependencyInversion.exe
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\bin\Debug\net6.0\ProblemDependencyInversion.deps.json
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\bin\Debug\net6.0\ProblemDependencyInversion.runtimeconfig.json
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\bin\Debug\net6.0\ProblemDependencyInversion.dll
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\bin\Debug\net6.0\ProblemDependencyInversion.pdb
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\obj\Debug\net6.0\ProblemDependencyInversion.csproj.AssemblyReference.cache
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\obj\Debug\net6.0\ProblemDependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\obj\Debug\net6.0\ProblemDependencyInversion.AssemblyInfoInputs.cache
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\obj\Debug\net6.0\ProblemDependencyInversion.AssemblyInfo.cs
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\obj\Debug\net6.0\ProblemDependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\obj\Debug\net6.0\ProblemDependencyInversion.csproj.CopyComplete
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\obj\Debug\net6.0\ProblemDependencyInversion.dll
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\obj\Debug\net6.0\refint\ProblemDependencyInversion.dll
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\obj\Debug\net6.0\ProblemDependencyInversion.pdb
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\obj\Debug\net6.0\ProblemDependencyInversion.genruntimeconfig.cache
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\ProblemDependencyInversion\obj\Debug\net6.0\ref\ProblemDependencyInversion.dll

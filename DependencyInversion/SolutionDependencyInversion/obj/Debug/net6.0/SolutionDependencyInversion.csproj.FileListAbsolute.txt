@@ -1,0 +1,17 @@
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\bin\Debug\net6.0\SolutionDependencyInversion.exe
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\bin\Debug\net6.0\SolutionDependencyInversion.deps.json
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\bin\Debug\net6.0\SolutionDependencyInversion.runtimeconfig.json
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\bin\Debug\net6.0\SolutionDependencyInversion.dll
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\bin\Debug\net6.0\SolutionDependencyInversion.pdb
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\obj\Debug\net6.0\SolutionDependencyInversion.csproj.AssemblyReference.cache
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\obj\Debug\net6.0\SolutionDependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\obj\Debug\net6.0\SolutionDependencyInversion.AssemblyInfoInputs.cache
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\obj\Debug\net6.0\SolutionDependencyInversion.AssemblyInfo.cs
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\obj\Debug\net6.0\SolutionDependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\obj\Debug\net6.0\SolutionDependencyInversion.csproj.CopyComplete
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\obj\Debug\net6.0\SolutionDependencyInversion.dll
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\obj\Debug\net6.0\refint\SolutionDependencyInversion.dll
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\obj\Debug\net6.0\SolutionDependencyInversion.pdb
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\obj\Debug\net6.0\SolutionDependencyInversion.genruntimeconfig.cache
+C:\Users\elian\Documents\repos\SOLID\DependencyInversion\SolutionDependencyInversion\obj\Debug\net6.0\ref\SolutionDependencyInversion.dll
